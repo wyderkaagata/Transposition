@@ -1,0 +1,11 @@
+/home/agata/projects/Transpose/bin/Debug/netcoreapp2.0/Transpose.deps.json
+/home/agata/projects/Transpose/bin/Debug/netcoreapp2.0/Transpose.runtimeconfig.json
+/home/agata/projects/Transpose/bin/Debug/netcoreapp2.0/Transpose.runtimeconfig.dev.json
+/home/agata/projects/Transpose/bin/Debug/netcoreapp2.0/Transpose.dll
+/home/agata/projects/Transpose/bin/Debug/netcoreapp2.0/Transpose.pdb
+/home/agata/projects/Transpose/obj/Debug/netcoreapp2.0/Transpose.csprojResolveAssemblyReference.cache
+/home/agata/projects/Transpose/obj/Debug/netcoreapp2.0/Transpose.csproj.CoreCompileInputs.cache
+/home/agata/projects/Transpose/obj/Debug/netcoreapp2.0/Transpose.AssemblyInfoInputs.cache
+/home/agata/projects/Transpose/obj/Debug/netcoreapp2.0/Transpose.AssemblyInfo.cs
+/home/agata/projects/Transpose/obj/Debug/netcoreapp2.0/Transpose.dll
+/home/agata/projects/Transpose/obj/Debug/netcoreapp2.0/Transpose.pdb
